@@ -28,15 +28,15 @@ O treinamento a seguir cobre 6 áreas principais que um profissional de software
 Cada um desses capítulos apresentará alguns novos conceitos e explicará detalhadamente por que eles são importantes em termos de clima e como você pode aplicá-los às suas práticas de software verde.
 
 #### Princípios, padrões e práticas
-As principais áreas e conteúdo deste curso descrevem o princípios de software verde, um conjunto básico de competências necessárias para definir, executar e construir software verde.
+As principais áreas e conteúdo deste curso descrevem o **princípios** de software verde, um conjunto básico de competências necessárias para definir, executar e construir software verde.
 
-Um software verde padrão é um exemplo específico de como aplicar um ou mais princípios em um exemplo do mundo real. Enquanto os princípios descrevem a teoria que sustenta o software verde, os padrões são os conselhos práticos que os profissionais de software podem usar hoje em seus aplicativos de software. Os padrões são neutros em termos de fornecedor.
+Um software verde [padrão](https://patterns.greensoftware.foundation/) é um exemplo específico de como aplicar um ou mais princípios em um exemplo do mundo real. Enquanto os princípios descrevem a teoria que sustenta o software verde, os padrões são os conselhos práticos que os profissionais de software podem usar hoje em seus aplicativos de software. Os padrões são neutros em termos de fornecedor.
 
 Um software verde prática é um padrão aplicado ao produto de um fornecedor específico e informa os profissionais sobre como usar esse produto de uma forma mais sustentável.
 
 As práticas devem referir-se a padrões que devem referir-se a princípios.
 
-A fundação de software verde também publica um catálogo de padrões de software verde neutros para fornecedores em várias categorias.
+A fundação de software verde também publica um [catálogo de padrões de software verde neutros para fornecedores](https://patterns.greensoftware.foundation/) em várias categorias.
 
 ![bq2kkjwodguj-01b_pyramid_principles_patterns_practices](https://github.com/user-attachments/assets/9cec64c9-0b05-4c61-abb2-7a8e8f544bd2)
 
